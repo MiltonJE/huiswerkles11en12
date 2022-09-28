@@ -1,0 +1,121 @@
+header{
+  background-color: #000080;
+  width: 100%;
+  height: 200px;
+}
+
+table.tabel-layout{
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#cel1{
+  color: #FFFFFF;
+  background-color: #C71585;
+  text-align: center;
+  width: 100px;
+}
+#cel2{
+  color: #FF0000;
+  background-color: #DB7093;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel3{
+  color: #FFFF00;
+  background-color: #DC143C;
+  text-align: center;
+  width: 100px;
+}
+#cel4{
+  color: #FF0000;
+  background-color: #FA8072;
+  padding-top: 4px;
+  width: 100px;
+}
+#cel5{
+  color: #7FFFD4;
+  background-color: #FF6347;
+  text-align: center;
+  width: 100px;
+}
+#cel6{
+  color: #FF0000;
+  background-color: #FFA500;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel7{
+  color: #FF0000;
+  background-color: #BDB76B;
+  text-align: center;
+  width: 100px;
+}
+#cel8{
+  color: #FF0000;
+  background-color: #FFD700;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel9{
+  color: #800000;
+  background-color: #FFE4B5;
+  text-align: center;
+  width: 100px;
+}
+#cel10{
+  color: #FF0000;
+  background-color: #800000;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel11{
+  color: #90EE90;
+  background-color: #D2691E;
+  text-align: center;
+  width: 100px;
+}
+#cel12{
+  color: #FF0000;
+  background-color: #BC8F8F;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel13{
+  color: #9400D3;
+  background-color: #66CDAA;
+  text-align: center;
+  width: 100px;
+}
+#cel14{
+  color: #FF0000;
+  background-color: #98FB98;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+#cel15{
+  color: #4B0082;
+  background-color: #7FFFD4;
+  text-align: center;
+  width: 100px;
+}
+#cel16{
+  color: #FF0000;
+  background-color: #6495ED;
+  padding-top: 4px;
+  width: 100px;
+  height: 100px;
+}
+
+footer{
+  background-color: #0000CD;
+  width: 100%;
+  height: 200px;
+}
